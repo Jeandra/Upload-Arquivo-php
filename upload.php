@@ -21,9 +21,6 @@
             echo "<p>Tipo de arquivo não permitido.</p>";
         } #fim if array
     }
-
-
-
 ?>
 
 
