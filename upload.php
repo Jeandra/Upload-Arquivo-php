@@ -17,9 +17,9 @@
             } else {
                 echo "<p>Falha no carregamento!</p>";
             } # fim da realização do upload.
-
-
-        }
+        } else {
+            echo "<p>Tipo de arquivo não permitido.</p>";
+        } #fim if array
     }
 
 
